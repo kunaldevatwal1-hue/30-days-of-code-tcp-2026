@@ -1,4 +1,4 @@
 # 30-days-of-code-tcp-2026
-**name** Kunal Devatwal
-**Roll No:** 123456  
-**Branch:** Computer application 
+**name** Kunal Dewatwal
+**Roll No:** 25223057  
+**Branch:** Master Of Computer application 
