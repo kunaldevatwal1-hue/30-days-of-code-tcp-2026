@@ -12,6 +12,6 @@
 <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/d219f11c-43fb-40c5-bd44-3f888e18cb27" />
 
 <h2>DAY_2</h2>
-<img width="1439" height="809" alt="Image" src="https://github.com/user-attachments/assets/a39144a1-1e03-4243-968a-e0b4130372c2" />
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/a9d0add2-17ad-466b-901d-7562f9480455" />
 
-<img width="1439" height="809" alt="Image" src="https://github.com/user-attachments/assets/bf25d61f-67b6-4b8a-aad8-9df902012305" />
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/b04abf85-36a2-4ff4-9d39-fc953dc2b550" />
