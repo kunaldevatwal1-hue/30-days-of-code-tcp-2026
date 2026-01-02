@@ -13,6 +13,7 @@
         <thead>
             <tr style="background-color:lightblue">
                 <th>Date</th>
+                <th>Time</th>
                 <th>Event Name</th>
                 <th>Place</th>
             </tr>
@@ -21,13 +22,31 @@
         <tbody>
             <tr style="background-color:aliceblue">
                 <td>October 10(fri), 2025</td>
-                <td>Mr. Olympia Open Pre-Judging</td>
+                <td>9:30 AM</td>
+                <td> Pre-judgings for Fitness, 212, Figure, Women's Physique, Ms. Olympia, Wellness.</td>
                 <td>Las Vegas, Nevada</td>
             </tr> 
 
+             <tr style="background-color:aliceblue">
+                <td>October 10(fri), 2025</td>
+                <td>6:00 PM</td>
+                <td>Finals for Fitness, 212, Figure, Women's Physique, Ms. Olympia, Wellness + Mr. Olympia (Open) Pre-Judging. </td>
+                <td>Las Vegas, Nevada</td>
+        
+            </tr>
+
+             <tr style="background-color:aliceblue">
+                <td>October 11(sat), 2025</td>
+                <td>9:30 AM</td>
+                <td>Pre-judgings for Classic Physique, Men's Physique, Bikini, Wheelchair</td>
+                <td>Las Vegas, Nevada</td>
+        
+            </tr>
+
             <tr style="background-color:aliceblue">
                 <td>October 11(sat), 2025</td>
-                <td>Mr. Olympia Open Finals</td>
+                <td>7:00 PM</td>
+                <td> Finals for Mr. Olympia (Open), Men's Physique, Bikini, Classic Physique. </td>
                 <td>Las Vegas, Nevada</td>
         
             </tr>
