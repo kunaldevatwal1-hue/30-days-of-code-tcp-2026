@@ -1,1 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>2025 Mr. Olympia competition</title>
+</head>
 
+    <h1>2025 Mr. Olympia competition</h1>
+    <p>The 2025 Mr. Olympia competition is scheduled to take place on October 10-11, 2025, in Las Vegas, Nevada. This prestigious event will feature the world's top professional bodybuilders competing for the coveted title of Mr. Olympia.</p>
+    <hr>
+    <h2>Event Details</h2>
+    <table border="1" cellpadding="12" style="background-color:black">
+        <thead>
+            <tr style="background-color:lightblue">
+                <th>Date</th>
+                <th>Event Name</th>
+                <th>Place</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr style="background-color:aliceblue">
+                <td>October 10(fri), 2025</td>
+                <td>Mr. Olympia Open Pre-Judging</td>
+                <td>Las Vegas, Nevada</td>
+            </tr> 
+
+            <tr style="background-color:aliceblue">
+                <td>October 11(sat), 2025</td>
+                <td>Mr. Olympia Open Finals</td>
+                <td>Las Vegas, Nevada</td>
+        
+            </tr>
+        </tbody>
+    </table>
+        <h2>2025 Mr. Olympia Ticket Registration</h2>
+<body>
+        <form action="event.html" method="POST">
+
+            <label for="username"><b>Your Name:</b></label>
+            <input type="text" id="username" minlenth="6"><br><br>
+
+            <label for="email"><b>Your Email:</b></label>
+            <input type="email" id="email" placeholder="Ssquarepant@gmail.com"><br><br>
+
+            <label for="age"><b>Your Age:</b></label>
+            <input type="number" id="age"><br><br>
+
+            <label for="event"><b>Select Event:</b></label><br>
+
+            <label for="1st">Mr. Olympia Open Pre-Judging</label>
+            <input type="radio" id="1st" name="event" value="1st">
+            <br>
+
+            <label for="2nd">Mr. Olympia Open Finals</label>
+            <input type="radio" id="2nd" name="event" value="2nd">
+            <br>
+            <label for ="3rd">Weekend passes</label>
+            <input type="radio" id="3rd" name="event" value="3rd">
+            <br><br>
+
+            <label for="tickets"><b>Number of Tickets:</b></label>
+            <input type="number" id="tickets" min="1" max="10" value="1"><br><br>
+
+
+            
+<p>Select at least <strong>3 workshop preferences</strong>:</p>
+
+            
+             <label>
+             <input type="checkbox" name="workshop" value="mens_open"> Men's Open Bodybuilding Workshop </label><br>
+
+  <label>
+    <input type="checkbox" name="workshop" value="classic"> Classic Physique Training Session</label><br>
+
+  <label>
+    <input type="checkbox" name="workshop" value="mens_physique">Men's Physique Posing Workshop </label><br>
+
+  <label>
+    <input type="checkbox" name="workshop" value="womens_fitness">Women's Fitness & Figure Workshop</label><br>
+  <label>
+    <input type="checkbox" name="workshop" value="nutrition">Olympia Nutrition & Supplement Seminar</label><br><br>
+
+  <label for="message"><b>Comments:</b></label><br>
+        <textarea id="message" name="message" rows="4" cols="40"></textarea><br><br>
+
+
+            <button type="submit">Submit </button>
+
+        </form>
+    
+    </body>
+    </html>
