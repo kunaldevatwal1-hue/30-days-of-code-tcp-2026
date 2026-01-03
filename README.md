@@ -15,3 +15,10 @@
 <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/a9d0add2-17ad-466b-901d-7562f9480455" />
 
 <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/b04abf85-36a2-4ff4-9d39-fc953dc2b550" />
+
+<h2>DAY-3</h2>
+<img width="1439" height="814" alt="Image" src="https://github.com/user-attachments/assets/059afe56-8d49-404b-be3a-7ea58a56785c" />
+
+<img width="1439" height="814" alt="Image" src="https://github.com/user-attachments/assets/b2890ca2-16c5-4260-9efd-b85fd1043c4d" />
+
+<img width="1439" height="814" alt="Image" src="https://github.com/user-attachments/assets/2dece524-4071-445d-ada0-fcd3c67d7b56" />
